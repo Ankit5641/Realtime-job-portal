@@ -27,7 +27,7 @@ Deployment: Vercel
  ## ⚙️ Setup
 
  # Clone repo
-git clone https://github.com/Deepak-Ray-Star/deepak-job-portal-new.git
+git clone https://github.com/Ankit5641/Realtime-job-portal
 
 # Backend setup
 -> cd server 
